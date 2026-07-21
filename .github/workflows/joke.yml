@@ -1,0 +1,24 @@
+name: Daily Tech Joke
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight everyday
+  workflow_dispatch:
+
+jobs:
+  post-joke:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+    - name: Run Script
+      run: python update_log.py
+    - name: Push to Repository
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@://github.com"
+        git add tech_jokes.txt
+        git commit -m "Automated Joke Sync" || exit 0
+        git push
