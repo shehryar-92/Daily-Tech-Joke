@@ -20,8 +20,8 @@ jobs:
         run: python update_log.py
       - name: Push to Repository
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Author's-Automated"
+          git config --global user.email "150334794+shehryar-92@users.noreply.github.com"
           git add tech_jokes.txt
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "Automated Joke Sync"
