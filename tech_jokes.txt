@@ -128,3 +128,6 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 
 =========================
 💻 Tech Joke: I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+
+=========================
+💻 Tech Joke: Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
