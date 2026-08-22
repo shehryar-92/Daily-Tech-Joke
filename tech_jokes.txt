@@ -131,3 +131,7 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 
 =========================
 💻 Tech Joke: Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+
+=========================
+💻 Tech Joke: Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
