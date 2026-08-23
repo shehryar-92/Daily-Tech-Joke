@@ -135,3 +135,6 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 =========================
 💻 Tech Joke: Have a great weekend!
 I hope your code behaves the same on Monday as it did on Friday.
+
+=========================
+💻 Tech Joke: Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
