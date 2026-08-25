@@ -1,8 +1,8 @@
 name: Daily Tech Joke
 on:
   schedule:
-    # 8:50 PM PKT (UTC+5) = 15:50 UTC
-    - cron: '50 15 * * *'
+    # 8:00 AM PKT (UTC+5) = 3:00 UTC
+    - cron: '58 2 * * *'
   workflow_dispatch:
 
 permissions:
