@@ -153,3 +153,6 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 
 =========================
 💻 Tech Joke: If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+
+=========================
+💻 Tech Joke: "We messed up the keming again guys."
