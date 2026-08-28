@@ -156,3 +156,10 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 
 =========================
 💻 Tech Joke: "We messed up the keming again guys."
+
+=========================
+💻 Tech Joke: Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
