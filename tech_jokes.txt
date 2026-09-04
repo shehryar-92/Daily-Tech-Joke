@@ -190,3 +190,8 @@ Knock knock.
 "OK."
 "Oh and while you're there, get some milk."
 He never returned.
+
+=========================
+💻 Tech Joke: "Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
