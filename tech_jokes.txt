@@ -206,3 +206,10 @@ He never returned.
 
 =========================
 💻 Tech Joke: If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+
+=========================
+💻 Tech Joke: Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
