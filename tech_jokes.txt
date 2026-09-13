@@ -229,3 +229,6 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 The bartender asks it: "What's wrong buddy?"
 "Parity error." it replies. 
 "Ah that makes sense, I thought you looked a bit off."
+
+=========================
+💻 Tech Joke: There are only 10 kinds of people in this world: those who know binary and those who don't.
