@@ -241,3 +241,10 @@ The bartender asks it: "What's wrong buddy?"
 The bartender asks, "Can I get you anything?"
 "Yeah," reply the bytes.
 "Make us a double."
+
+=========================
+💻 Tech Joke: Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
