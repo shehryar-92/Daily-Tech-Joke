@@ -248,3 +248,10 @@ Who's there?
 Recursion.
 Recursion who?
 Knock knock.
+
+=========================
+💻 Tech Joke: Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
