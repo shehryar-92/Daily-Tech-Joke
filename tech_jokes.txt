@@ -255,3 +255,6 @@ Who's there?
 Recursion.
 Recursion who?
 Knock knock.
+
+=========================
+💻 Tech Joke: The generation of random numbers is too important to be left to chance.
