@@ -266,3 +266,10 @@ Knock knock.
 [very long pause]
 
 "Java."
+
+=========================
+💻 Tech Joke: Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
