@@ -289,3 +289,6 @@ But I'd use RGB for you.
 4. Why does that happen?
 5. Oh, I see.
 6. How did that ever work?
+
+=========================
+💻 Tech Joke: Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
