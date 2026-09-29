@@ -310,3 +310,6 @@ But I'd use RGB for you.
 The bartender asks it: "What's wrong buddy?"
 "Parity error." it replies. 
 "Ah that makes sense, I thought you looked a bit off."
+
+=========================
+💻 Tech Joke: "We messed up the keming again guys."
