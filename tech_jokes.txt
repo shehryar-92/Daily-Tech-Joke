@@ -316,3 +316,8 @@ The bartender asks it: "What's wrong buddy?"
 
 =========================
 💻 Tech Joke: ASCII silly question, get a silly ANSI.
+
+=========================
+💻 Tech Joke: "Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
