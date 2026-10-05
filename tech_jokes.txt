@@ -335,3 +335,6 @@ The bartender asks it: "What's wrong buddy?"
 
 =========================
 💻 Tech Joke: ASCII silly question, get a silly ANSI.
+
+=========================
+💻 Tech Joke: If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
