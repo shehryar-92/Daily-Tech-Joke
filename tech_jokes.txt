@@ -338,3 +338,6 @@ The bartender asks it: "What's wrong buddy?"
 
 =========================
 💻 Tech Joke: If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+
+=========================
+💻 Tech Joke: "We messed up the keming again guys."
