@@ -341,3 +341,11 @@ The bartender asks it: "What's wrong buddy?"
 
 =========================
 💻 Tech Joke: "We messed up the keming again guys."
+
+=========================
+💻 Tech Joke: "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
