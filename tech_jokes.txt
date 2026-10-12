@@ -362,3 +362,6 @@ I hope your code behaves the same on Monday as it did on Friday.
 
 =========================
 💻 Tech Joke: Your momma is so fat, you need to switch to NTFS to store a picture of her.
+
+=========================
+💻 Tech Joke: The generation of random numbers is too important to be left to chance.
