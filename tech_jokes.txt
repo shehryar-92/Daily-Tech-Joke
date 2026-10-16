@@ -378,3 +378,9 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 
 =========================
 💻 Tech Joke: There are only 10 kinds of people in this world: those who know binary and those who don't.
+
+=========================
+💻 Tech Joke: "Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
