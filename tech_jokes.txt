@@ -384,3 +384,6 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 "OK."
 "Oh and while you're there, get some milk."
 He never returned.
+
+=========================
+💻 Tech Joke: I have a joke about Stack Overflow, but you would say it's a duplicate.
