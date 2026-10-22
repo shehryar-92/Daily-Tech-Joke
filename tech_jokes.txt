@@ -407,3 +407,6 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 💻 Tech Joke: "Can I tell you a TCP joke?"
 "Please tell me a TCP joke."
 "OK, I'll tell you a TCP joke."
+
+=========================
+💻 Tech Joke: "We messed up the keming again guys."
