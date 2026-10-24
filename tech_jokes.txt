@@ -417,3 +417,10 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 - Did it work?
 - No?
 - It's HTML5.
+
+=========================
+💻 Tech Joke: Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
