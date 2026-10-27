@@ -435,3 +435,10 @@ The guy says "In that case, better make it a double."
 Me (thinking): "Please be death, please be death..."
 Judge: "Learn Java!"
 Me: "Damn."
+
+=========================
+💻 Tech Joke: Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
