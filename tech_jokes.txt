@@ -455,3 +455,9 @@ But I'd use RGB for you.
 
 =========================
 💻 Tech Joke: Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+
+=========================
+💻 Tech Joke: "Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
