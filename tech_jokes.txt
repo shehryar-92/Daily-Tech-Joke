@@ -461,3 +461,10 @@ But I'd use RGB for you.
 "OK."
 "Oh and while you're there, get some milk."
 He never returned.
+
+=========================
+💻 Tech Joke: How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
