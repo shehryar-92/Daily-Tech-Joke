@@ -471,3 +471,6 @@ He never returned.
 
 =========================
 💻 Tech Joke: I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+
+=========================
+💻 Tech Joke: // This line doesn't actually do anything, but the code stops working when I delete it.
