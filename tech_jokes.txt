@@ -481,3 +481,6 @@ He never returned.
 - Did it work?
 - No?
 - It's HTML5.
+
+=========================
+💻 Tech Joke: Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
