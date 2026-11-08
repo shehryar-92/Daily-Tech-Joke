@@ -497,3 +497,6 @@ Knock knock.
 The bartender asks, "Can I get you anything?"
 "Yeah," reply the bytes.
 "Make us a double."
+
+=========================
+💻 Tech Joke: Your momma is so fat, you need to switch to NTFS to store a picture of her.
