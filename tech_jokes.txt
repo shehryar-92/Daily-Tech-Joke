@@ -524,3 +524,10 @@ But I'd use RGB for you.
 
 =========================
 💻 Tech Joke: UDP is better in the COVID era since it avoids unnecessary handshakes.
+
+=========================
+💻 Tech Joke: How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
