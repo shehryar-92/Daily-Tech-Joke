@@ -531,3 +531,6 @@ But I'd use RGB for you.
 - Did it work?
 - No?
 - It's HTML5.
+
+=========================
+💻 Tech Joke: There are only 10 kinds of people in this world: those who know binary and those who don't.
