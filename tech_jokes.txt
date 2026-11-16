@@ -534,3 +534,10 @@ But I'd use RGB for you.
 
 =========================
 💻 Tech Joke: There are only 10 kinds of people in this world: those who know binary and those who don't.
+
+=========================
+💻 Tech Joke: Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
