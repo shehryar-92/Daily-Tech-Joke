@@ -547,3 +547,6 @@ Knock knock.
 
 =========================
 💻 Tech Joke: UDP is better in the COVID era since it avoids unnecessary handshakes.
+
+=========================
+💻 Tech Joke: I'd tell you a joke about NAT but I would have to translate.
